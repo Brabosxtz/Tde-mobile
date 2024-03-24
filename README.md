@@ -14,8 +14,7 @@
 
 
 # Credits
-> [!Warning]
-|                    Creditos                     | Plugin / Include |                       Link                        |
+|                    Creditos                     | Plugin / Include |                       Link              |
 |-------------------------------------------------|------------------|---------------------------------------------------|
 | [Y_Less](https://github.com/Y-Less)             | YSI Library      | https://github.com/pawn-lang/YSI-Includes         |
 | [Y_Less](https://github.com/Y-Less)             | Sscanf           | https://github.com/Y-Less/sscanf                  |
