@@ -6,7 +6,7 @@
 # Spoiler
 ![Alt text](img/spoiler.jpg?raw=true)
 # Instalação
-![Alt text](img/instalacao.jpg?raw=true)
+![Alt text](img/tutorial-instalar.mp4?raw=true)
 
 # Plugins necessários
 | Nome do plug-in | É obrigatório? |         Link                 |
