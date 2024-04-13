@@ -6,8 +6,10 @@
 # Spoiler
 ![Alt text](img/spoiler.jpg?raw=true)
 # Instalação
-![Alt text](img/tutorial-instalar.mp4?raw=true)
-
+<p align="center">
+   <img width="460" heigth="300" src="img/tutorial-instalar.mp4">
+</p>
+  
 # Plugins necessários
 | Nome do plug-in | É obrigatório? |         Link                 |
 |-------------|------------------|-------------------------------------------------|
