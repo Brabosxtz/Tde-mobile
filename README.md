@@ -3,6 +3,9 @@
 > Feito com base no nexquery
 > Updated on: 2024/03/23 16:55:37 BRT
 
+# Spoiler
+![Alt text](img/spoiler.jpg?raw=true)
+# Instalação
 ![Alt text](img/instalacao.jpg?raw=true)
 
 # Plugins necessários
