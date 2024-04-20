@@ -15,6 +15,7 @@
 |-------------|------------------|-------------------------------------------------|
 | Sscanf      | Sim              | https://github.com/Y-Less/sscanf                |
 | CrashDetect | Opcional         | https://github.com/Zeex/samp-plugin-crashdetect |
+| textdraw-streamer | Sim        | https://github.com/nexquery/samp-textdraw-streamer |
 
 
 
@@ -29,3 +30,4 @@
 | [Emmet](https://github.com/emmet-jones)         | easyDialog       | https://github.com/Awsomedude/easyDialog          |
 | [oscar-broman](https://github.com/oscar-broman) | strlib           | https://github.com/oscar-broman/strlib            |
 | [AbyssMorgan](https://github.com/AbyssMorgan)   | RGB              | https://www.burgershot.gg/showthread.php?tid=1902 |
+| [nexquery](https://github.com/nexquery/samp-textdraw-streamer) | textdraw streamer   | https://github.com/nexquery/samp-textdraw-streamer |
