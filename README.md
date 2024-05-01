@@ -2,6 +2,7 @@
 > [!Note]
 > Feito com base no nexquery
 > Updated on: 2024/03/23 16:55:37 BRT
+> instale o TDE.txd em sua data para não dar erros
 
 # Spoiler
 ![Alt text](img/spoiler.jpg?raw=true)
