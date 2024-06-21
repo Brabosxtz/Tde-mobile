@@ -6,6 +6,7 @@
 
 # Spoiler
 ![Alt text](img/spoiler.jpg?raw=true)
+![Alt text](img/spoiler2.jpg?raw=true)
 # Instalação
 <p align="center">
    <img width="460" heigth="300" src="img/tutorial-instalar.mp4">
