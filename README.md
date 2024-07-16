@@ -1,5 +1,7 @@
 # Tde Mobile
 > [!Note]
+> Baixe a release nao o .zip do codigo rebanho de bisonho
+> 
 > Feito com base no nexquery
 > Updated on: 2024/03/23 16:55:37 BRT
 > instale o TDE.txd em sua data para não dar erros
