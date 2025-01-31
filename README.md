@@ -5,7 +5,12 @@
 >
 > Feito com base no nexquery
 > Updated on: 2024/03/23 16:55:37 BRT
-> instale o TDE.txd em sua data para não dar erros
+
+# LEIA ESSA PORRA
+> [!Warning]
+> TDE.txd
+> 
+> instale o TDE.txd em sua data para não dar erros e os png dos botões nao aparecerr
 
 # Spoiler
 ![Alt text](img/spoiler.jpg?raw=true)
