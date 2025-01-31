@@ -1,6 +1,6 @@
 # Tde Mobile
 > [!Note]
-> Baixe a release nao o .zip do codigo rebanho de bisonho
+> Baixem a release nao o .zip do codigo é apenas uma demonstração!
 > [Release_Download](https://github.com/Ghost649/Tde-mobile/tags)
 >
 > Feito com base no nexquery
