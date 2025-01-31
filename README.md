@@ -10,7 +10,7 @@
 > [!Warning]
 > TDE.txd
 > 
-> instale o TDE.txd em sua data para não dar erros e os png dos botões nao aparecerr
+> instale o TDE.txd em sua data do samp para não dar erros e os png dos botões nao aparecerr
 
 # Spoiler
 ![Alt text](img/spoiler.jpg?raw=true)
