@@ -6,11 +6,11 @@
 > Feito com base no nexquery
 > Updated on: 2024/03/23 16:55:37 BRT
 
-# LEIA ESSA PORRA
-> [!Warning]
+# LEIA ISSO
+> [!Caution]
 > TDE.txd
 > 
-> instale o TDE.txd em sua data do samp para não dar erros e os png dos botões nao aparecerr
+> instale o TDE.txd em sua data do samp para não dar erros e os png dos botões nao aparecer no game
 
 # Spoiler
 ![Alt text](img/spoiler.jpg?raw=true)
