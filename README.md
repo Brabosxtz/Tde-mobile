@@ -15,10 +15,9 @@
 # Spoiler
 ![Alt text](img/spoiler.jpg?raw=true)
 ![Alt text](img/spoiler2.jpg?raw=true)
-# Tutorial De Instalação
-![](https://github.com/Brabosxtz/Tde-mobile/blob/a8a7ff1f6c5a25ba06d39130a8bbc6363f2a65a0/img/tutorial-instalar.mp4)
 
-https://github.com/Brabosxtz/Tde-mobile/issues/1
+# Tutorial De Instalação
+![](https://github.com/Brabosxtz/Tde-mobile/blob/ad68dd6f9bb4045f79aa6b7511a1f8bdedc944a3/img/tutorial-instalar.gif)
   
 # Plugins necessários
 | Nome do plug-in | É obrigatório? |         Link                 |
