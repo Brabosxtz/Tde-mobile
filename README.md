@@ -1,28 +1,26 @@
 # Tde Mobile
 > [!Note]
-> Baixem a release nao o .zip do codigo é apenas uma demonstração!
+> Baixem a release 
+> nao o .zip do codigo, o código  é apenas uma demonstração!
 > [Release_Download](https://github.com/Ghost649/Tde-mobile/tags)
 >
-> Feito com base no nexquery
 > Updated on: 2024/03/23 16:55:37 BRT
 
 # LEIA ISSO
 > [!Caution]
 > TDE.txd
 > 
-> instale o TDE.txd deem sua data do samp para não dar erros e os png dos botões nao aparecer no game
+> instale um dos TDE.txd que esta dentro da pasta "TDE.txd(tipos)" em sua data do Samp (ru.unisamp_mobile.game/files/texdb/txd/txd.txt) para não dar erros e os botões nao aparecer ingame
 > 
-> instale o TDE.txd em sua data do samp para não dar erros e os png dos botões nao aparecer no game
+> instale um dos TDE.txd que esta dentro da pasta "TDE.txd(tipos)" em sua data do Samp (ru.unisamp_mobile.game/files/texdb/txd/txd.txt) para não dar erros e os botões nao aparecer ingame
 > 
-> instale o TDE.txd em sua data do samp para não dar erros e os png dos botões nao aparecer no game
+> instale um dos TDE.txd que esta dentro da pasta "TDE.txd(tipos)" em sua data do Samp (ru.unisamp_mobile.game/files/texdb/txd/txd.txt) para não dar erros e os botões nao aparecer ingame
 > 
-> instale o TDE.txd em sua data do samp para não dar erros e os png dos botões nao aparecer no game
+> instale um dos TDE.txd que esta dentro da pasta "TDE.txd(tipos)" em sua data do Samp (ru.unisamp_mobile.game/files/texdb/txd/txd.txt) para não dar erros e os botões nao aparecer ingame
 > 
-> instale o TDE.txd em sua data do samp para não dar erros e os png dos botões nao aparecer no game
+> instale um dos TDE.txd que esta dentro da pasta "TDE.txd(tipos)" em sua data do Samp (ru.unisamp_mobile.game/files/texdb/txd/txd.txt) para não dar erros e os botões nao aparecer ingame
 > 
-> instale o TDE.txd em sua data do samp para não dar erros e os png dos botões nao aparecer no game
-> > 
-> 
+> instale um dos TDE.txd que esta dentro da pasta "TDE.txd(tipos)" em sua data do Samp (ru.unisamp_mobile.game/files/texdb/txd/txd.txt) para não dar erros e os botões nao aparecer ingame
 > 
 
 # Spoiler
