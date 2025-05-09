@@ -57,7 +57,7 @@
 ![Spoiler 2](img/spoiler2.jpg?raw=true)  
 
 ### ▶️ **Tutorial de Instalação**  
-![](https://github.com/Brabosxtz/Tde-mobile/blob/ad68dd6f9bb4045f79aa6b7511a1f8bdedc944a3/img/tutorial-instalar.gif)  
+![](img/tutorial-instalar.gif)  
 
 ---
 
