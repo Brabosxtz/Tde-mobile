@@ -1,5 +1,0 @@
-tr.txt = Turkish
-en.txt = English
-ro.txt = Romanian
-id.txt = Indonesian
-pt.txt = Portugues
