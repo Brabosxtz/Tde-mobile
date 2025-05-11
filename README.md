@@ -53,8 +53,8 @@
 
 ## 📸 **Preview**  
 ### 🖼️ Interface e Funcionalidades  
-![Spoiler](img/spoiler1.png?raw=true)  
-![Spoiler 2](img/spoiler2.png?raw=true)  
+![Spoiler](https://github.com/Brabosxtz/Tde-mobile/raw/master/img/spoiler1.png)
+![teste](https://github.com/Brabosxtz/Tde-mobile/blob/master/img/spoiler2.png?raw=true)
 ![Spoiler 3](img/spoiler3.png?raw=true)  
 
 ### ▶️ **Tutorial de Instalação**  
