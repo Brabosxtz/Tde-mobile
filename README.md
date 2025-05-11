@@ -53,8 +53,9 @@
 
 ## 📸 **Preview**  
 ### 🖼️ Interface e Funcionalidades  
-![Spoiler](img/spoiler.jpg?raw=true)  
-![Spoiler 2](img/spoiler2.jpg?raw=true)  
+![Spoiler](img/spoiler1.png?raw=true)  
+![Spoiler 2](img/spoiler2.png?raw=true)  
+![Spoiler 3](img/spoiler3.png?raw=true)  
 
 ### ▶️ **Tutorial de Instalação**  
 ![](img/tutorial-instalar.gif)  
