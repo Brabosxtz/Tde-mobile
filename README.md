@@ -59,6 +59,7 @@
 
 ### ▶️ **Tutorial de Instalação**  
 ![](img/tutorial-instalar.gif)  
+**[tutorial](https://github.com/Brabosxtz/Tde-mobile/issues/1)**
 
 ---
 
